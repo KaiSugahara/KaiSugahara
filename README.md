@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋 I'm Kai Sugahara</h1>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/kaisugahara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/kaisugahara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0003-2367-020X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  
+</p>
 
 <!--
 **KaiSugahara/KaiSugahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
