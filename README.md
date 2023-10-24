@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Kai Sugahara</h1>
 
-<p align="center">Master Student / Novice ML Engineer in Japan</p>
+<p align="center">Master's Student / Novice ML Engineer in Japan</p>
 
 
 <p align="center">
