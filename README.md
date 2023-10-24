@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kai Sugahara</h1>
+# Hi there 👋 I'm Kai Sugahara
 
 <p align="center">
   
