@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Kai Sugahara</h1>
+<h2 align="center">Hi there 👋 I'm Kai Sugahara</h2>
 
 <p align="center">Master's Student / Novice ML Engineer in Japan</p>
 
@@ -10,17 +10,24 @@
   <a href="https://qiita.com/Kai238"><img src="https://img.shields.io/badge/Qiita-55c500?style=for-the-badge&logo=qiita&logoColor=white"></a>
 </p>
 
-<!--
-**KaiSugahara/KaiSugahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary><h3>Education</h3></summary>
 
-Here are some ideas to get you started:
+- 📖 Master of Engineering (Department of Informatics)\
+📆 2022.04 - present\
+📍 **University of Electro-Communications** - Tokyo, Japan
+- 📖 Bachelor of Engineering (Department of Informatics)\
+📆 2018.04 - 2022.03\
+📍 **University of Electro-Communications** - Tokyo, Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+<summary><h3>Publication</h3></summary>
+
+- Kai Sugahara, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, Pattern Recognition, 142, 109657, 2023.5
+  - <a href="https://doi.org/10.1016/j.patcog.2023.109657">DOI: 10.1016/j.patcog.2023.109657</a>
+- Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, Proceedings of 8th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2023), 2023.11
+  - accepted
+
+</details>
