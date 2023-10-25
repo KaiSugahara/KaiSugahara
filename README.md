@@ -11,7 +11,7 @@
 </p>
 
 <details>
-<summary><h3>Education</h3></summary>
+<summary><h3 style="margin: 0 0 10px 0;">Education</h3></summary>
 
 - 📖 Master of Engineering (Department of Informatics)\
 📆 2022.04 - present\
@@ -23,7 +23,7 @@
 </details>
 
 <details>
-<summary><h3>Publication</h3></summary>
+<summary><h3 style="margin: 0 0 10px 0;">Publication</h3></summary>
 
 - Kai Sugahara, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, Pattern Recognition, 142, 109657, 2023.5
   - <a href="https://doi.org/10.1016/j.patcog.2023.109657">DOI: 10.1016/j.patcog.2023.109657</a>
