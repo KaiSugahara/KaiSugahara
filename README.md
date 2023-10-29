@@ -25,9 +25,9 @@
 <details>
 <summary><h3 style="margin: 0 0 10px 0;">Publication</h3></summary>
 
-- Kai Sugahara, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, Pattern Recognition, 142, 109657, 2023.5
-  - <a href="https://doi.org/10.1016/j.patcog.2023.109657">DOI: 10.1016/j.patcog.2023.109657</a>
-- Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, Proceedings of 8th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII 2023), 2023.11
-  - accepted
+- Kai Sugahara, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, Pattern Recognition, 142, 109657, 2023.
+  - DOI: <a href="https://doi.org/10.1016/j.patcog.2023.109657">10.1016/j.patcog.2023.109657</a>
+- Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: Advanced Computational Intelligence and Intelligent Informatics, 153-166, 2024.
+  - DOI: <a href="https://doi.org/10.1007/978-981-99-7590-7_13">10.1007/978-981-99-7590-7_13</a>
 
 </details>
