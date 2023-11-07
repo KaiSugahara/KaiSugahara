@@ -4,10 +4,13 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaisugahara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/kaisugahara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0003-2367-020X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kaisugahara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://qiita.com/Kai238"><img src="https://img.shields.io/badge/Qiita-55c500?style=for-the-badge&logo=qiita&logoColor=white"></a>
+  <br>
+  <a href="https://orcid.org/0009-0003-2367-020X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=KbVH3RcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Kai-Sugahara"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
 </p>
 
 <details>
