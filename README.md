@@ -13,8 +13,7 @@
   <a href="https://www.researchgate.net/profile/Kai-Sugahara"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
 </p>
 
-<details>
-<summary><h3 style="margin: 0 0 10px 0;">Education</h3></summary>
+### Education
 
 - 📖 Master of Engineering (Department of Informatics)\
 📆 2022.04 - present\
@@ -23,10 +22,7 @@
 📆 2018.04 - 2022.03\
 📍 **University of Electro-Communications** - Tokyo, Japan
 
-</details>
-
-<details>
-<summary><h3 style="margin: 0 0 10px 0;">Publication</h3></summary>
+### Publication
 
 Journal
 - Kai Sugahara, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, *Pattern Recognition*, 142, 109657, 2023.
@@ -34,6 +30,7 @@ Journal
 
 International Conference
 - Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024.
+  - Session Best Presentation Award
   - DOI: <a href="https://doi.org/10.1007/978-981-99-7590-7_13">10.1007/978-981-99-7590-7_13</a>
 
 Preprint
@@ -43,5 +40,3 @@ Preprint
 Domestic Conference (in Japanese)
 - 簀河原 皆, 山﨑 千寛, 梛木 佑真, 岡本 一志: アイテムの機能関係に注目した補完推薦に関する検討, *電子情報通信学会 技術研究報告*, 2024.
   - Title (English): A Study of Complementary Recommendation Focused on Functional Aspects
-
-</details>
