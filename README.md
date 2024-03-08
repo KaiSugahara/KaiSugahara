@@ -27,15 +27,14 @@
 Journal
 - Kai Sugahara, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, *Pattern Recognition*, 142, 109657, 2023.
   - DOI: <a href="https://doi.org/10.1016/j.patcog.2023.109657">10.1016/j.patcog.2023.109657</a>
+- Kai Sugahara, Kazushi Okamoto: Hierarchical Matrix Factorization for Interpretable Collaborative Filtering, *Pattern Recognition Letters*, ?, ?, 2024.
+  - DOI: <a href="https://doi.org/10.1016/j.patrec.2024.03.003">10.1016/j.patrec.2024.03.003</a>
+  - arXiv (Accepted Version): <a href="https://doi.org/10.48550/arXiv.2311.13277">10.48550/arXiv.2311.13277</a>
 
 International Conference
 - Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024.
   - Session Best Presentation Award
   - DOI: <a href="https://doi.org/10.1007/978-981-99-7590-7_13">10.1007/978-981-99-7590-7_13</a>
-
-Preprint
-- Kai Sugahara, Kazushi Okamoto: Hierarchical Matrix Factorization for Interpretable Collaborative Filtering, *arXiv:2311.13277*, 2023.
-  - DOI: <a href="https://doi.org/10.48550/arXiv.2311.13277">10.48550/arXiv.2311.13277</a>
 
 Domestic Conference (in Japanese)
 - 簀河原 皆, 山﨑 千寛, 梛木 佑真, 岡本 一志: アイテムの機能関係に注目した補完推薦に関する検討, *電子情報通信学会 技術研究報告*, 2024.
