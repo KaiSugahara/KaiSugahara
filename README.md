@@ -29,7 +29,7 @@ Journal
   - DOI: <a href="https://doi.org/10.1016/j.patcog.2023.109657">10.1016/j.patcog.2023.109657</a>
 - Kai Sugahara, Kazushi Okamoto: Hierarchical Matrix Factorization for Interpretable Collaborative Filtering, *Pattern Recognition Letters*, ?, ?, 2024.
   - DOI: <a href="https://doi.org/10.1016/j.patrec.2024.03.003">10.1016/j.patrec.2024.03.003</a>
-  - arXiv (Accepted Version): <a href="https://doi.org/10.48550/arXiv.2311.13277">10.48550/arXiv.2311.13277</a>
+  - arXiv: <a href="https://doi.org/10.48550/arXiv.2311.13277">10.48550/arXiv.2311.13277</a> (Accepted Version)
 
 International Conference
 - Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024.
