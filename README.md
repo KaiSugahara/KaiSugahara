@@ -16,7 +16,7 @@
 ### Education
 
 - 📖 Master of Engineering (Department of Informatics)\
-📆 2022.04 - present\
+📆 2022.04 - 2024.03\
 📍 **University of Electro-Communications** - Tokyo, Japan
 - 📖 Bachelor of Engineering (Department of Informatics)\
 📆 2018.04 - 2022.03\
