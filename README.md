@@ -26,8 +26,7 @@
 ### Publication
 
 International Conference
-- Kai Sugahara, Chihiro Yamasaki, Kazushi Okamoto: Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation, In: *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys '24)*, XX-XX, 2024.
-  - In press
+- Kai Sugahara, Chihiro Yamasaki, Kazushi Okamoto: Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation, In: *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys '24)*, 1091-1095, 2024.
   - DOI: <a href="https://doi.org/10.1145/3640457.3691705">10.1145/3640457.3691705</a>
 - Kai Sugahara, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024.
   - Session Best Presentation Award
