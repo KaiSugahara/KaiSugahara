@@ -36,7 +36,7 @@ Journal
 
 Preprint
 - Chihiro Yamasaki, **Kai Sugahara**, Yuma Nagi, Kazushi Okamoto: Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge, *arXiv:2507.03945*, 2025.
-  - arXiv: <a href="https://arxiv.org/abs/2507.03945">arXiv:2507.03945</a>
+  - arXiv: <a href="https://doi.org/10.48550/arXiv.2507.03945">10.48550/arXiv.2507.03945</a>
 
 Domestic Conference (in Japanese)
 - **簀河原 皆**, 山﨑 千寛, 梛木 佑真, 岡本 一志: アイテムの機能関係に注目した補完推薦に関する検討, *電子情報通信学会 技術研究報告*, 2024.
