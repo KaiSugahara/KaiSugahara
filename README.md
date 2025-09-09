@@ -20,31 +20,28 @@
 
 ### Publication
 
-International Conference
+#### Journal
 
-- Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Kazushi Okamoto: Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models, In: *Proceedings of the second workshop on Generative AI for E-Commerce (@RecSys '25)*, 2025.
-  - Publication details: WIP
-  - arXiv: WIP
-- <ins>Kai Sugahara</ins>, Chihiro Yamasaki, Kazushi Okamoto: Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation, In: *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys '24)*, 1091-1095, 2024.
-  - DOI: <a href="https://doi.org/10.1145/3640457.3691705">10.1145/3640457.3691705</a>
-- <ins>Kai Sugahara</ins>, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024.
-  - Session Best Presentation Award
-  - DOI: <a href="https://doi.org/10.1007/978-981-99-7590-7_13">10.1007/978-981-99-7590-7_13</a>
+- <ins>Kai Sugahara</ins>, Kazushi Okamoto: Hierarchical Matrix Factorization for Interpretable Collaborative Filtering, *Pattern Recognition Letters*, 180, 99-106, 2024.<br>
+[<img src="https://img.shields.io/badge/elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white">](https://doi.org/10.1016/j.patrec.2024.03.003) [<img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">](https://doi.org/10.48550/arXiv.2311.13277)
+- <ins>Kai Sugahara</ins>, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, *Pattern Recognition*, 142, 109657, 2023.<br>
+[<img src="https://img.shields.io/badge/elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white">](https://doi.org/10.1016/j.patcog.2023.109657)
 
-Journal
+#### International Conference
 
-- <ins>Kai Sugahara</ins>, Kazushi Okamoto: Hierarchical Matrix Factorization for Interpretable Collaborative Filtering, *Pattern Recognition Letters*, 180, 99-106, 2024.
-  - DOI: <a href="https://doi.org/10.1016/j.patrec.2024.03.003">10.1016/j.patrec.2024.03.003</a>
-  - arXiv: <a href="https://doi.org/10.48550/arXiv.2311.13277">10.48550/arXiv.2311.13277</a> (Accepted Version)
-- <ins>Kai Sugahara</ins>, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, *Pattern Recognition*, 142, 109657, 2023.
-  - DOI: <a href="https://doi.org/10.1016/j.patcog.2023.109657">10.1016/j.patcog.2023.109657</a>
+- Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Kazushi Okamoto: Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models, In: *Proceedings of the second workshop on Generative AI for E-Commerce (@RecSys '25)*, 2025.<br>
+<img src="https://img.shields.io/badge/paper-000000?style=for-the-badge&logoColor=white"> [<img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">](https://arxiv.org/abs/2509.05564)
+- <ins>Kai Sugahara</ins>, Chihiro Yamasaki, Kazushi Okamoto: Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation, In: *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys '24)*, 1091-1095, 2024.<br>
+[<img src="https://img.shields.io/badge/acm-0085CA?style=for-the-badge&logo=acm&logoColor=white">](https://doi.org/10.1145/3640457.3691705)
+- <ins>Kai Sugahara</ins>, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024. [Session Best Presentation Award]<br>
+[<img src="https://img.shields.io/badge/Springer-152e56?style=for-the-badge&logoColor=white">](https://doi.org/10.1007/978-981-99-7590-7_13)
 
-Preprint
+#### Preprint
 
-- Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Yuma Nagi, Kazushi Okamoto: Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge, *arXiv:2507.03945*, 2025.
-  - arXiv: <a href="https://doi.org/10.48550/arXiv.2507.03945">10.48550/arXiv.2507.03945</a>
+- Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Yuma Nagi, Kazushi Okamoto: Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge, *arXiv:2507.03945*, 2025.<br>
+[<img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">](https://doi.org/10.48550/arXiv.2507.03945)
 
-Domestic Conference (in Japanese)
+#### Domestic Conference (in Japanese)
 
-- <ins>簀河原 皆</ins>, 山﨑 千寛, 梛木 佑真, 岡本 一志: アイテムの機能関係に注目した補完推薦に関する検討, *電子情報通信学会 技術研究報告*, 2024.
-  - Publication details: [Link](https://www.ieice.org/publications/ken/summary.php?contribution_id=128632)
+- <ins>簀河原 皆</ins>, 山﨑 千寛, 梛木 佑真, 岡本 一志: アイテムの機能関係に注目した補完推薦に関する検討, *電子情報通信学会 技術研究報告*, 2024.<br>
+[<img src="https://img.shields.io/badge/paper-000000?style=for-the-badge&logoColor=white">](https://www.ieice.org/publications/ken/summary.php?contribution_id=128632)
