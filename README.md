@@ -30,7 +30,7 @@
 #### International Conference
 
 - Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Kazushi Okamoto: Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models, In: *Proceedings of the second workshop on Generative AI for E-Commerce (@RecSys '25)*, 2025.<br>
-<img src="https://img.shields.io/badge/paper-000000?style=for-the-badge&logoColor=white"> [<img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">](https://arxiv.org/abs/2509.05564)
+[<img src="https://img.shields.io/badge/paper-000000?style=for-the-badge&logoColor=white">](https://genai-ecommerce.github.io/assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_211.pdf) [<img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">](https://arxiv.org/abs/2509.05564)
 - <ins>Kai Sugahara</ins>, Chihiro Yamasaki, Kazushi Okamoto: Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation, In: *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys '24)*, 1091-1095, 2024.<br>
 [<img src="https://img.shields.io/badge/acm-0085CA?style=for-the-badge&logo=acm&logoColor=white">](https://doi.org/10.1145/3640457.3691705)
 - <ins>Kai Sugahara</ins>, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024. [Session Best Presentation Award]<br>
