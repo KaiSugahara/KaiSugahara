@@ -27,7 +27,7 @@
 - <ins>Kai Sugahara</ins>, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024. [[Paper](https://doi.org/10.1007/978-981-99-7590-7_13)] [Session Best Presentation Award]
 
 #### Journal
-- Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Yuma Nagi, Kazushi Okamoto: Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge, *Pattern Recognition Letters*, Advance online publication. [[Paper](https://doi.org/10.1016/j.patrec.2025.11.042)] [[arXiv](https://doi.org/10.48550/arXiv.2507.03945)]
+- Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Yuma Nagi, Kazushi Okamoto: Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge, *Pattern Recognition Letters*, 200, 8-15, 2026. [[Paper](https://doi.org/10.1016/j.patrec.2025.11.042)] [[arXiv](https://doi.org/10.48550/arXiv.2507.03945)]
 - <ins>Kai Sugahara</ins>, Kazushi Okamoto: Hierarchical Matrix Factorization for Interpretable Collaborative Filtering, *Pattern Recognition Letters*, 180, 99-106, 2024. [[Paper](https://doi.org/10.1016/j.patrec.2024.03.003)] [[arXiv](https://doi.org/10.48550/arXiv.2311.13277)]
 - <ins>Kai Sugahara</ins>, Kazushi Okamoto: Hierarchical Co-clustering with Augmented Matrices from External Domains, *Pattern Recognition*, 142, 109657, 2023. [[Paper](https://doi.org/10.1016/j.patcog.2023.109657)]
 
