@@ -22,6 +22,7 @@
 
 #### International Conference
 
+- <ins>Kai Sugahara</ins>: Towards Dynamic Relationship Schema Discovery for Complementary News Recommendation, In: *Proceedings of the 20th ACM Conference on Recommender Systems (RecSys '26)*, XXXX-XXXX, 2026. [[Paper](https://doi.org/10.1145/3773078.3841261)]
 - Chihiro Yamasaki, <ins>Kai Sugahara</ins>, Kazushi Okamoto: Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models, In: *Proceedings of the second workshop on Generative AI for E-Commerce (@RecSys '25)*, 2025. [[Paper](https://genai-ecommerce.github.io/assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_211.pdf)] [[arXiv](https://arxiv.org/abs/2509.05564)]
 - <ins>Kai Sugahara</ins>, Chihiro Yamasaki, Kazushi Okamoto: Is It Really Complementary? Revisiting Behavior-based Labels for Complementary Recommendation, In: *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys '24)*, 1091-1095, 2024. [[Paper](https://doi.org/10.1145/3640457.3691705)]
 - <ins>Kai Sugahara</ins>, Kazushi Okamoto: Keyword-based Research Field Discovery with External Knowledge Aware Hierarchical Co-clustering, In: *Advanced Computational Intelligence and Intelligent Informatics*, 153-166, 2024. [[Paper](https://doi.org/10.1007/978-981-99-7590-7_13)] [Session Best Presentation Award]
